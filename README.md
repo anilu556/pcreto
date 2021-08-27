@@ -1,5 +1,5 @@
-#Reto Punto Commerce
+Reto Punto Commerce
 
-##Run the following command
+Run the following command
 npm run dev
 
